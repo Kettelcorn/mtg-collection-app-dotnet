@@ -1,0 +1,6 @@
+@MTGCollectionApp_HostAddress = http://localhost:5031
+
+GET {{MTGCollectionApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
